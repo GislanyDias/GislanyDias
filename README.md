@@ -3,9 +3,12 @@
 - 🔭 Fiz trabalhos com Bot para Telegram e sites em HTML e Css
 - 🌱 Estudando Front-end
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/GislanyDias">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GislanyDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+<div aling="right">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GislanyDias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
