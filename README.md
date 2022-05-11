@@ -1,7 +1,7 @@
-## Olá! Eu sou a Gislany Dias, estudante de programação e tecnologia!
+## Hi! I'm Gislany Dias, engineering and programming student!
 
-- 🔭 Fiz trabalhos com Bot para Telegram, e sites em HTML e Css
-- 🌱 Estudando HTML, CSS, JS e React
+- 🔭 I did projects with Python, web development and C++
+- 🌱 Studying Web Development (HTML, CSS and Js) and C++ (Object Oriented Programming)
 
 <div align="center">
   <a href="https://github.com/GislanyDias">
