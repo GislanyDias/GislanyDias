@@ -34,11 +34,6 @@
 
   </div>
   
- <div>
-  <p align="center">Visitantes Bem-Vindos</p>
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/GislanyDias/count.svg" />
-  </p>
-</div>
+
 
   
